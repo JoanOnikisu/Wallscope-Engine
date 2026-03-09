@@ -26,7 +26,7 @@ Many image management scripts for Windows rely on the legacy **GDI+** library, w
    - Drop `WallscapeEngine.ps1` and `LaunchEngine.bat` into your `Wallpapers` folder.
 
 3. **Run:**
-   - Simply **double-click** `Launch-Engine.bat`. No administrator privileges required for standard user directories.
+   - Simply **double-click** `LaunchEngine.bat`. No administrator privileges required for standard user directories.
 
 ## 🛠️ Key Features
 
